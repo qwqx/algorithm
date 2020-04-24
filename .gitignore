@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+target/
+
+### IntelliJ idea ###
+*.iml
+.idea
+*.ipr
+*.iws
